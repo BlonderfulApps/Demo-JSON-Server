@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "objStation": [
+        {
+            "StationDesc": "Blackrock",
+            "StationAlias": "",
+            "StationLatitude": "53.3027",
+            "StationLongitude": "-6.17833",
+            "StationCode": "BROCK",
+            "StationId": "128"
+        },
+        {
+            "StationDesc": "Seapoint",
+            "StationAlias": "",
+            "StationLatitude": "53.2991",
+            "StationLongitude": "-6.16512",
+            "StationCode": "SEAPT",
+            "StationId": "129"
+        },
+        {
+            "StationDesc": "Salthill and Monkstown",
+            "StationAlias": "Monkstown (Salthill)",
+            "StationLatitude": "53.2954",
+            "StationLongitude": "-6.15206",
+            "StationCode": "SHILL",
+            "StationId": "130"
+        },
+        {
+            "StationDesc": "Dun Laoghaire",
+            "StationAlias": "",
+            "StationLatitude": "53.2951",
+            "StationLongitude": "-6.13498",
+            "StationCode": "DLERY",
+            "StationId": "131"
+        },
+        {
+            "StationDesc": "Sandycove",
+            "StationAlias": "Glasthule (Sandycove)",
+            "StationLatitude": "53.2878",
+            "StationLongitude": "-6.12712",
+            "StationCode": "SCOVE",
+            "StationId": "132"
+        },
+        {
+            "StationDesc": "Glenageary",
+            "StationAlias": "",
+            "StationLatitude": "53.2812",
+            "StationLongitude": "-6.12289",
+            "StationCode": "GLGRY",
+            "StationId": "133"
+        },
+        {
+            "StationDesc": "Dalkey",
+            "StationAlias": "",
+            "StationLatitude": "53.2756",
+            "StationLongitude": "-6.10333",
+            "StationCode": "DLKEY",
+            "StationId": "134"
+        }
+    ]
 }
